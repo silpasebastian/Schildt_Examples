@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+E:\eclipse_and_java_programming\java\Schildt_Examples\.metadata\.plugins\org.eclipse.jdt.core
+505864743.index
+1566372492.index
+1865797976.index
